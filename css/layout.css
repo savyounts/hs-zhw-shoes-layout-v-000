@@ -24,7 +24,9 @@
 
 /* Posititoning Classes */
 
-
+#archive{
+  margin-top: 20px;
+}
 .col-2{
   float: left;
   width: 66%;
