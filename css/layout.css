@@ -24,4 +24,10 @@
 
 /* Posititoning Classes */
 
+.col-2{
+  width: 66%;
+}
 
+.col-3{
+  width: 32%;
+}
